@@ -1,0 +1,16 @@
+{
+  "name": "FUN",
+  "symbol": "$FUN",
+  "description": "A sample token creation test",
+  "image": "https://picsum.photos/200/200",
+  "external_url": "https://primathon.in/",
+  "uri": "https://primathon.in/",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "CwumMpNFmAzq6Bxyidda3QNs1giATZndPv5WNHXyCZtK",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
